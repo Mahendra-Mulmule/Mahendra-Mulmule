@@ -36,7 +36,7 @@
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/mahendra-mulmule/)  
 - ✉️ Email: Mahendra9730imp@gmail.com
-- 🌐 Portfolio: [Coming Soon!]
+- 🌐 Portfolio: [https://developer-mahendra-portfolio.netlify.app/]
 
 ---
 
